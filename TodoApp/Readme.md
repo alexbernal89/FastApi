@@ -22,3 +22,5 @@ Subir al repositorio
 
 Conocer los requerimientos
 pip3 freeze > requirements.txt
+# instalar requerimientos
+pip install -r requirements.txt

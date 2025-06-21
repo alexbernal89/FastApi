@@ -19,3 +19,6 @@ Subir al repositorio
 2. git commit -m "Mensaje de commit"
 3. git remote add origin https://github.com/user/repository.git
 4. git push -u origin main
+
+Conocer los requerimientos
+pip3 freeze > requirements.txt

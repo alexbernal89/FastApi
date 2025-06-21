@@ -24,3 +24,7 @@ Conocer los requerimientos
 pip3 freeze > requirements.txt
 # instalar requerimientos
 pip install -r requirements.txt
+
+# Arrancar el servidor
+uvicorn TodoApp.main:app --host 0.0.0.0 --port 10000
+https://www.elephantsql.com/

@@ -13,3 +13,9 @@ alexbernal
 
 Ejecución de test
 1. pytest --disable-warnings -v     
+
+Subir al repositorio
+1. git add .
+2. git commit -m "Mensaje de commit"
+3. git remote add origin https://github.com/user/repository.git
+4. git push -u origin main
